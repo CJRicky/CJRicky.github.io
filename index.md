@@ -12,8 +12,8 @@
 <img src="images/SXR_T2R.PNG"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Magnetic field line tracing](http://example.com/)
+<img src="images/torus_2m_nobackground.png?raw=true"/>
 
 ---
 
