@@ -8,8 +8,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Tomographic reconstruction (optimization problem)](/pdf/SXR.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Tomographic reconstruction (optimization problem)](/pdf/SXR_RF.pdf)
+<img src="images/SXR_T2R"/>
 
 ---
 [Project 3 Title](http://example.com/)
