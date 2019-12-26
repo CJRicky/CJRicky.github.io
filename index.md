@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Tomographic reconstruction (optimization problem)](/pdf/SXR_RF.pdf)
-<img src="images/SXR_T2R.PNG"/>
+<img src="images/SXR_T2R.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
