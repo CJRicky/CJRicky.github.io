@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Tomographic reconstruction of Soft X-ray emission (optimization problem)](/pdf/SXR_RF.pdf)
-<img src="images/SXR_T2R.png"/>
+<img src="images/SXR_T2R.PNG"/>
 
 ---
 [Project 3 Title](http://example.com/)
