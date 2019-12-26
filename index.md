@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Modelling of magnetohydrodynamic instabilities](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Tomographic reconstruction of Soft X-ray emission (optimization problem)](/pdf/SXR_RF.pdf)
+[Tomographic reconstruction of Soft X-ray emission (optimization problem)](/pdf/SXR_RF.pdf)
 <img src="images/SXR_T2R.PNG"/>
 
 ---
