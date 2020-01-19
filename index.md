@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Modelling of magnetohydrodynamic instabilities](/PhDPresentation_Richard_online.pdf)
+[Modelling of magnetohydrodynamic instabilities](/sample_page.md)
 <img src="RF_Thesis.JPG?raw=true"/>
 
 ---
