@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Modelling of magnetohydrodynamic instabilities](/sample_page)
+[Modelling of magnetohydrodynamic instabilities](/PhDPresentation_Richard_online.pdf)
 <img src="RF_Thesis.JPG?raw=true"/>
 
 ---
@@ -9,7 +9,7 @@
 <img src="images/SXR_T2R.PNG"/>
 
 ---
-[Magnetic field line tracing](http://example.com/)
+[Magnetic field line tracing]()
 <img src="images/torus_2m_nobackground.png?raw=true"/>
 
 ---
