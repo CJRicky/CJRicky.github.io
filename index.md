@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Modelling of magnetohydrodynamic instabilities](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="RF_Thesis.jpg?raw=true"/>
 
 ---
 [Tomographic reconstruction of Soft X-ray emission (optimization problem)](/pdf/SXR_RF.pdf)
