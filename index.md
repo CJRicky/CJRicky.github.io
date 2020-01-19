@@ -2,7 +2,7 @@
 
 ---
 [Modelling of magnetohydrodynamic instabilities](/sample_page)
-<img src="RF_Thesis.jpg?raw=true"/>
+<img src="RF_Thesis.JPG?raw=true"/>
 
 ---
 [Tomographic reconstruction of Soft X-ray emission (optimization problem)](/pdf/SXR_RF.pdf)
