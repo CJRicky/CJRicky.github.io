@@ -1,31 +1,8 @@
-## This can be your internal website page / project page
+**PhD Thesis - Abstract:** 
+The tearing mode (TM) is a resistive instability that can arise in magnetically confined plasmas. The TM can be driven unstable by the gradient of the plasma current. When the mode grows it destroys the magnetic field symmetry and reconnects the magnetic field in the form of a so-called magnetic island. The TMs are inherent to a type of device called the reversed-field pinch (RFP), which is a device for toroidal magnetic confinement of fusion plasmas. In the RFP, TMs arise at several resonant surfaces, i.e. where the field lines and the perturbation have the same pitch angle. These surfaces are closely spaced in the RFP and the neighboring TM islands can overlap. Due to the island overlap, the magnetic field lines become tangled resulting in a stochastic magnetic field, i.e. the field lines fill a volume instead of lying on toroidal surfaces. Consequently, a stochastic field results in an anomalously fast transport in the radial direction. Stochastic fields can also arise in other plasmas, for example, the tokamak edge when a resonant magnetic perturbation (RMP) is applied by external coils. This stochastization is intentional to mitigate the edge-localized modes. The RMPs are also used for control of other instabilities. Due to the finite number of RMP coils, however, the RMP fields can contain sidebands that decelerate and lock the TMs via electromagnetic torques. The locking causes an increased plasma-wall interaction. And in the tokamak, the TM locking can cause a plasma disruption which is disastrous for future high-energy devices like the ITER. In this thesis, the TM locking was studied in two RFPs (EXTRAP T2R and Madison Symmetric Torus) by applying RMPs. The experiments were compared with modern mode-locking theory. To determine the viscosity in different magnetic configurations where the field is stochastic, we perturbed the momentum via an RMP and an insertable biased electrode.
+<br>
+In the TM locking experiments, we found qualitative agreement with the mode-locking theory. In the model, the kinematic viscosity was chosen to match the experimental locking instant. The model then predicts the braking curve, the short timescale dynamics, and the mode unlocking. To unlock a mode, the RMP amplitude had to decrease by a factor ten from the locking amplitude. These results show that mode-locking theory, including the relevant electromagnetic torques and the viscous plasma response, can explain the experimental features. The model required viscosity agreed with another independent estimation of the viscosity. This showed that the RMP technique can be utilized for estimations of the viscosity.
+<br>
+In the momentum perturbation experiments, it was found that the viscosity increased 100-fold when the magnetic fluctuation amplitude increased 10-fold. Thus, the experimental viscosity exhibits the same scaling as predicted by transport in a stochastic magnetic field. The magnitude of the viscosity agreed with a model that assumes that transport occurs at the sound speed -- the first detailed test of this model. The result can, for example, lead to a clearer comparison between experiment and visco-resistive magnetohydrodynamics (MHD) modeling of plasmas with a stochastic magnetic field. These comparisons had been complicated due to the large uncertainty in the experimental viscosity. Now, the viscosity can be better constrained, improving the predictive capability of fusion science.
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see my thesis and papers at http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-218052.
